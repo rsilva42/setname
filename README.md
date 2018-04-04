@@ -39,6 +39,9 @@ Permanence (-P): This flag will set the prompt in your `.zshrc` so that it not c
 Color (-c): This flag allows you to choose text color (currently only supported in three digit format) from the colors in this chart:
 <img  src="./shell_colors.png" />
 
-Length (-l): BRB OUT FOR LUNCH!
+Length (-l): This flag will manually set the prompt name to a set 
+
+
+BRB OUT FOR LUNCH!
 
 enjoy! :)
