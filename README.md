@@ -21,7 +21,7 @@ source .zshrc
 
 The basic usage would be:
 ```bash
-nameset "what you want the prompt to be"
+setname "what you want the prompt to be"
 ```
 but that would be boring :(
 
