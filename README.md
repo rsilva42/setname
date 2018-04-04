@@ -39,9 +39,12 @@ Permanence (-P): This flag will set the prompt in your `.zshrc` so that it not c
 Color (-c): This flag allows you to choose text color (currently only supported in three digit format) from the colors in this chart:
 <img  src="./shell_colors.png" />
 
-Length (-l): This flag will manually set the prompt name to a set 
+Length (-l): This flag will manually set the prompt name to a set length. This should mainly be used to avoid visual glitches when using special characters (such as emojis and non-english characters) in the prompt.
 
+## Extra:
 
-BRB OUT FOR LUNCH!
+If you come across any bugs or glitches feel free to slack me them (also open to suggestions!):D
+
+Disclaimer: I am not responsible if you mess something up with this program, I created this program with the intention to facilitate the editing of the terminal prompt.
 
 enjoy! :)
