@@ -21,7 +21,7 @@ source .zshrc
 
 The basic usage would be:
 ```bash
-nameset "what you want the prompt to be"
+setname "what you want the prompt to be"
 ```
 but that would be boring :(
 
@@ -30,7 +30,7 @@ fret not, for there are more features!
 the current features are:
 
 ```bash
-nameset [-P] [-c <color number>] name [-l <length>]
+setname [-P] [-c <color number>] name [-l <length>]
 ```
 
 Permanence (-P): This flag will set the prompt in your `.zshrc` so that it not change back after quitting the terminal. (Disclaimer: it may overwrite changes to `PS1` in your `.zshrc`)
