@@ -43,7 +43,11 @@ Length (-l): This flag will manually set the prompt name to a set length. This s
 
 ## Extra:
 
-If you come across any bugs or glitches feel free to slack me them (also open to suggestions!):D
+If you come across any bugs or glitches feel free to slack me them (also open to suggestions!) :D
+
+Currently the flags must be in the order of appearance of usage.
+
+I chose to put -l after name because I think it would be easier to count the characters on screen than count before you type it out.
 
 Disclaimer: I am not responsible if you mess something up with this program, I created this program with the intention to facilitate the editing of the terminal prompt.
 
