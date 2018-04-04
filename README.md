@@ -43,7 +43,7 @@ Length (-l): This flag will manually set the prompt name to a set length. This s
 
 ## Extra:
 
-If you come across any bugs or glitches feel free to slack me them (also open to suggestions!) :D
+If you come across any bugs or glitches feel free to slack me them (I am also open to suggestions or pics of your cool prompts!) :D
 
 Currently the flags must be in the order of appearance of usage.
 
