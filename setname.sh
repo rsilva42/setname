@@ -19,7 +19,7 @@
 if [ $# -lt 1 ] || [ $# -gt 6 ] || [ $1 = "-help" ] || [ $1 = "-h" ]
 then
 	tabs -6
-	echo "Usage: nameset [-P] [-c <color number>] name [-l <length>]\n"
+	echo "Usage: setname [-P] [-c <color number>] name [-l <length>]\n"
 	echo "Help: Setname changes the terminal prompt."
 	echo "	By default, the text will be set to terminal grey (007)."
 	echo "	Please make sure your prompt looks dope."
